@@ -1,0 +1,27 @@
+{
+  "name": "me",
+  "version": "1.0.0",
+  "description": "bot par !0001",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "killian",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "figlet": "^1.2.4",
+    "fs": "0.0.1-security",
+    "jimp": "^0.10.0",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "nodemon": "^2.0.2",
+    "opusscript": "0.0.7",
+    "superagent": "^5.2.2",
+    "ytdl-core": "^2.0.1"
+  }
+}
